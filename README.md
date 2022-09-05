@@ -6,7 +6,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![SQLite](https://img.shields.io/badge/-SQLite-333?style=for-the-badge&logo=SQLite)
-![AndroidStudio](https://img.shields.io/badge/-Android Studio-333?style=for-the-badge&logo=Android Studio)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333?style=for-the-badge&logo=Android Studio)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyheevApps&layout=compact&theme=dark)
