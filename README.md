@@ -6,6 +6,6 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![1C enterprice](https://img.shields.io/badge/-1C_enterprise-333?style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-333?style=for-the-badge&logo=Android Studio)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-333?style=for-the-badge&logo=AndroidStudio)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyheevApps&layout=compact&theme=dark)
