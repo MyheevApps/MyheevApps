@@ -1,6 +1,6 @@
-Меня зовут Максим Михеев я занимаюсь Android-разработкой с 2020 года.
+## Всем привет ✌
 
-> Мой стек технологий
+### Мой стек технологий
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=Kotlin)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
