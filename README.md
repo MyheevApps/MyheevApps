@@ -1,4 +1,4 @@
-## Всем привет ✌
+## Всем привет! ✌
 
 ### Мой стек технологий
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge)
