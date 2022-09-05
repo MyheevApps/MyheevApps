@@ -1,5 +1,5 @@
-## Всем привет! 👋
-### Меня зовут Михеев Максим, я занимаюсь Android-Разработкой с 2020 года.
+## Hi there! 👋
+### My name is Maxim Mikheev and I'm an Android developer since 2020.
 
 ### Мой стек технологий
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge)
