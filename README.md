@@ -1,7 +1,7 @@
 ## Hi there! 👋
 ### My name is Maxim Mikheev and I'm an Android developer since 2020.
 
-### Мой стек технологий
+### My stack
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=Kotlin)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
