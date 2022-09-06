@@ -19,3 +19,4 @@
 
 ### Contackt me
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=Telegram)](https://t.me/Myheev)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=LinkedIn)
