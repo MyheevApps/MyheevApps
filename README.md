@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=333&lines=Android+developer)](https://git.io/typing-svg)
 ### Areas of interest:
 
-### My stack
+### Languages and tools:
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=Kotlin)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
