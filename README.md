@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+an+Android+developer)](https://git.io/typing-svg)
 
 ### My stack
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-333?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=Kotlin)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![SQLite](https://img.shields.io/badge/-SQLite-333?style=for-the-badge&logo=SQLite)
