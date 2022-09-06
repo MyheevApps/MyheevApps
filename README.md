@@ -14,6 +14,7 @@
 ![1C enterprice](https://img.shields.io/badge/-1C_enterprise-333?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-333?style=for-the-badge&logo=AndroidStudio)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=for-the-badge&logo=Firebase)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333?style=for-the-badge&logo=IntelliJ_IDEA)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyheevApps&layout=compact&theme=dark)
 
 ### Contact me
