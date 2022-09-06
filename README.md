@@ -17,4 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyheevApps)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contackt me
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=Telegram)](https://t.me/Myheev)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=appveyor&logo=Telegram)](https://t.me/Myheev)
