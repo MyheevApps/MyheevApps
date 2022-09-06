@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=333&lines=Android+developer)](https://git.io/typing-svg)
 ### Areas of interest:
++ Algorithms and Data structures
++ Android
++ Data mining
++ Optimization
 
 ### Languages and tools:
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge)
