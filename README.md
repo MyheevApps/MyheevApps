@@ -2,7 +2,9 @@
 <h1 align="center">Hi there, I'm Maxim
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=333&lines=Android+developer)](https://git.io/typing-svg)
+### About me:
+I'm an Android developer since 2020. I like to learn new technologies, improve my skills and put my knowledge into practice.
+
 ### Areas of interest:
 + Algorithms and Data structures
 + Optimization and Refactoring
