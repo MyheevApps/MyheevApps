@@ -1,5 +1,5 @@
 ## Hi there! 👋
-## My name is Maxim Mikheev and I'm an Android developer.
+My name is Maxim Mikheev and I'm an Android developer.
 
 ### My stack
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge)
