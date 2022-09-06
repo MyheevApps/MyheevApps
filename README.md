@@ -18,5 +18,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyheevApps&layout=compact&theme=dark)
 
 ### Contact me
+Find me on 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=Telegram)](https://t.me/Myheev)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=LinkedIn)
