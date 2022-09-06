@@ -5,8 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=333&lines=Android+developer)](https://git.io/typing-svg)
 ### Areas of interest:
 
-<br />
-
 ### Languages and tools:
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=Kotlin)
@@ -16,7 +14,6 @@
 ![1C enterprice](https://img.shields.io/badge/-1C_enterprise-333?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-333?style=for-the-badge&logo=AndroidStudio)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=for-the-badge&logo=Firebase)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyheevApps&layout=compact&theme=dark)
 
 ### Contact me
