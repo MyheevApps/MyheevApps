@@ -15,7 +15,7 @@
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-333?style=for-the-badge&logo=AndroidStudio)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=for-the-badge&logo=Firebase)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyheevApps&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyheevApps&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contackt me
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=Telegram)](https://t.me/Myheev)
