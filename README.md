@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=333&lines=Android+developer)](https://git.io/typing-svg)
 ### Areas of interest:
 
+<br />
+
 ### Languages and tools:
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=Kotlin)
@@ -21,3 +23,4 @@
 Find me on 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=Telegram)](https://t.me/Myheev)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=LinkedIn)
+or jusy say Hello at m.myheev@gmail.com
