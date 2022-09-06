@@ -7,6 +7,7 @@
 + Algorithms and Data structures
 + Optimization and Refactoring
 + Android platform
++ Desktop software
 + Data mining
 
 ### Languages and tools:
