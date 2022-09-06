@@ -20,4 +20,4 @@
 Find me on 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=Telegram)](https://t.me/Myheev)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=LinkedIn)
-or jusy say Hello at m.myheev@gmail.com
+or just say Hello at m.myheev@gmail.com
