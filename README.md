@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Maxim+and+I'm+an+Android+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Maxim+and+I am+an+Android+developer.)](https://git.io/typing-svg)
 
 ### My stack
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge)
