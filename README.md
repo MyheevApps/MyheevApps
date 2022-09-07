@@ -2,17 +2,17 @@
 <h1 align="center">Hi there, I'm Maxim
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### About me:
+### About me
 I'm an Android developer since 2020. I like to learn new technologies, improve my skills and put my knowledge into practice.
 
-### Areas of interest:
+### Areas of interest
 + Algorithms and Data structures
 + Optimization and Refactoring
 + Android platform
 + Desktop software
 + Data mining
 
-### Languages and tools:
+### Languages and tools
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=Kotlin)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
