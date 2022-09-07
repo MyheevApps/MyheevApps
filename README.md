@@ -12,6 +12,9 @@ I'm an Android developer since 2020. I like to learn new technologies, improve m
 + Desktop software
 + Data mining
 
+### Things I hate
+I don't like being interviewed, I just like to develop real projects that will be used by thousands of people around the world.
+
 ### Languages and tools
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=Kotlin)
