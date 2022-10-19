@@ -34,4 +34,4 @@ Find me on
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=LinkedIn)
 or just say Hello at m.myheev@gmail.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thedudefromci.readme)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=myheevapps.readme)
