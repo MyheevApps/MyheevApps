@@ -33,5 +33,3 @@ Find me on
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=Telegram)](https://t.me/Myheev)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=LinkedIn)
 or just say Hello at m.myheev@gmail.com
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=myheevapps.readme)
