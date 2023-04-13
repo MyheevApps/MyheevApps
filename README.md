@@ -30,6 +30,6 @@ I don't like being interviewed, I just like to develop real projects that will b
 
 ### Contact me
 Find me on 
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=Telegram)](https://t.me/Myheev)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=flat&logo=Telegram)](https://t.me/MikheevMaxim)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/максим-михеев-b477911b7)
 or just say Hello at m.myheev@gmail.com
